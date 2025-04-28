@@ -74,7 +74,7 @@ make lint
 
 ## Структура проекта
 
-`internal/workerpool/pool.go` — реализация worker pool (Transform, Accumulate, List)
-`internal/filecrawler/crawler.go` — реализация краулера (Collect)
-`internal/fs/filesystem.go` — интерфейс файловой системы
-`tests/` — модульные и интеграционные тесты
+- `internal/workerpool/pool.go` — реализация worker pool (Transform, Accumulate, List)
+- `internal/filecrawler/crawler.go` — реализация краулера (Collect)
+- `internal/fs/filesystem.go` — интерфейс файловой системы
+- `tests/` — модульные и интеграционные тесты
